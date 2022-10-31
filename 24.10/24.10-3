@@ -1,0 +1,11 @@
+def function(x):
+    if x[-1] == 'АЯГМ':
+        y = (lambda x: print(x, "Гений"))
+        print(y)
+    elif y[-1] == 'ОЬЛН':
+        z = (lambda x: print(x, "Гений"))
+        print(z)
+    else:
+        c = (lambda x: print("Просто", x))
+        print(c)
+
