@@ -1,0 +1,11 @@
+def kitchen(x):
+    z = print("Бутерброд:")
+    def galv():
+        x()
+    return x
+
+
+@kitchen
+def sostav():
+    print("Салат")
+    print("Ананас")
