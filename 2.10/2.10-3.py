@@ -1,5 +1,5 @@
 
-def cacluate(*num):
+def calculator(*num):
     y = []
     x = sum(num) / len(num)
     for i in num:
